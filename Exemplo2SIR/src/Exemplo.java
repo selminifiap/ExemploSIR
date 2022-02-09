@@ -9,7 +9,7 @@ public class Exemplo {
 		int menor = menorValor(v);
 		System.out.println("maior valor = " + maior);
 		System.out.println("menor valor = " + menor);
-
+		
 	}
 	
 	public static int maiorValor(int[] v) {
